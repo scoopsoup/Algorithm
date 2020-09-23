@@ -1,4 +1,4 @@
-package u02_practice_01;
+package hashMap;
 
 import java.util.ArrayList;
 import java.util.Collections;
