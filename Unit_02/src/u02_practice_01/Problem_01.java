@@ -1,4 +1,4 @@
-package practice_01;
+package u02_practice_01;
 
 import java.util.ArrayList;
 import java.util.Collections;
